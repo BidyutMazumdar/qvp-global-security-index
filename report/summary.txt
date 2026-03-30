@@ -1,0 +1,19 @@
+QVP GLOBAL SECURITY REPORT
+
+Top Countries:
+(To be generated from engine output)
+
+System Status:
+- Dataset: Complete
+- Engine: Active
+- Ranking: Generated
+
+Files:
+- data/qssi_dataset.csv
+- data/qssi_ranking.csv
+- engine/qssi_engine.py
+
+Next Phase:
+- API Layer (FastAPI)
+- Dashboard UI (React)
+- Certification System
